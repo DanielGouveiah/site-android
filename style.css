@@ -74,11 +74,10 @@ nav > a:hover {
     background-color: #268F52;
     color: #23553b;
 }
-
 main {
     display: block;
     height: 100%;
-    width: 80%;
+    width: 90%;
     background-color: white;
     margin:auto;
     padding-top: 0px;
@@ -88,11 +87,12 @@ main {
     border-radius: 0px 0px 10px 10px;
 }
 section{
-    margin: 10px 30px;
-    padding-top: 0px;
+    margin: 0px 30px;
+    padding-top: 0%;
 } 
 h2{
     padding-top: 20px;
+    margin-top: 0px;
 }
 p{
     text-indent: 30px;
