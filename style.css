@@ -86,7 +86,7 @@ main {
     font-size: 1.3em;
     border-radius: 0px 0px 10px 10px;
 }
-@media only screen and(max-width: 300px) {
+@media only screen and(max-width: 600px) {
     main {
         width: 100%;
         display: block;
