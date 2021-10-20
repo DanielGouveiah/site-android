@@ -171,10 +171,7 @@ div.video iframe{
     list-style-position: inside;
     columns: 2;
     list-style-type: "\2714\00A0";
-}
-#extra #plus {
-    margin-top: 5px;
-    padding: 20px 0px;
+    padding-inline-start: 0px;
 }
 #extra ins:hover{
     text-decoration: underline;
